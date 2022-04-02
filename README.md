@@ -1,1 +1,1 @@
-# Optimize-store-data-management-with-Python
+# Optimize store data management with Python
